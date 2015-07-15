@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BottomSheetDemo.qml</file>
+        <file>ButtonDemo.qml</file>
+        <file>CheckBoxDemo.qml</file>
+        <file>ColorPaletteDemo.qml</file>
+        <file>CustomIconsDemo.qml</file>
+        <file>DialogDemo.qml</file>
+        <file>FormsDemo.qml</file>
+        <file>IconsDemo.qml</file>
+        <file>ListItemsDemo.qml</file>
+        <file>PageStackDemo.qml</file>
+        <file>ProgressBarDemo.qml</file>
+        <file>RadioButtonDemo.qml</file>
+        <file>SliderDemo.qml</file>
+        <file>SubPage.qml</file>
+        <file>SwitchDemo.qml</file>
+        <file>TextFieldDemo.qml</file>
+        <file>TimePickerDemo.qml</file>
+        <file>TypographyDemo.qml</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>qml/allPick_data.qml</file>
+        <file>qml/allProjects_data.qml</file>
+        <file>qml/info_data.qml</file>
+        <file>qml/lastProjects_data.qml</file>
+        <file>qml/myControls_data.qml</file>
+        <file>qml/myProjects_data.qml</file>
+        <file>qml/myTasks_data.qml</file>
+        <file>qml/SubPage.qml</file>
+    </qresource>
+</RCC>
